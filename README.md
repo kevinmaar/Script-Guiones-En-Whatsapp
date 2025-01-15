@@ -1,23 +1,19 @@
-# SendScriptWhatsApp
+# Enviar Guion Por WhatsApp En español
 
-Código para enviar o Script inteiro de Shrek ou Bee Movie para seus amigos ou grupos do WhatsApp
+Script para enviar el guion entero de shrek 2 por whatsapp
 
-## Utilização
+## Uso
 
-Abra [shrekSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/shrekSendScript.js)
-Ou
-Abra [beeMovieSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/beeMovieSendScript.js)
+Abra [shrek2Script.js](https://github.com/kevinmaar/Script-Guion-Shrek-2-En-Whatsapp/blob/main/shrek2Script.js)
 
-Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
+Copie todo el contenido (Clic en copi raw file o bien ctrl + a y despues ctrl + c).
 
-No WhatsApp Web abra o console do Browser
+En [WhastApp Web](https://web.whatsapp.com/) abre la consola del navegador.
 
-|  ⚠️ Aviso importante, numa atualização recente do Google Chrome, está sendo impedido que qualquer script seja colado no Console.|
+|  ⚠️ Aviso importante, En una actualización reciente de "Google Chrome", se ha bloqueado la posibilidad de pegar scripts directamente en la consola.|
 |--|
-|  ***Para contornar esse problema, o console do desenvolvedor espera receber um confirmação textual escrevendo no console: "allow pasting"***| 
-|Após isso será permitido colar e continuar a execução do script|
+|  ***Para solucionar este problema, escribe en la consola "allow pasting" o "permitir pegado" para habilitar el pegado.***| 
+|Luego de esto, podrás pegar el código y continuar con la ejecución del script.|
 
 
-Cole o código no console e aperte Enter
-
-Pronto
+Pega el código en la consola y presiona "Enter".
