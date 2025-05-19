@@ -8,9 +8,7 @@ Abra [Script_wsp.js](https://github.com/kevinmaar/Script-Guion-Shrek-2-En-Whatsa
 
 | Puedes pegar el contenido que quieras justo en esta parte:                            |
 |----------------------------------------------|
-| ``javascript                                 |
 | enviarScript(`*TU CONTENIDO*`).then(e => console.log(`Código finalizado, ${e} mensagens enviadas`)).catch(console.error) |
-| ``                                          |
 
 En [WhastApp Web](https://web.whatsapp.com/) abre la consola del navegador.
 
