@@ -10,7 +10,7 @@ Copie todo el contenido (Clic en copi raw file o bien ctrl + a y despues ctrl + 
 
 En [WhastApp Web](https://web.whatsapp.com/) abre la consola del navegador.
 
-|  ⚠️ Aviso importante, En una actualización reciente de "Google Chrome", se ha bloqueado la posibilidad de pegar scripts directamente en la consola.|
+|  ⚠️ Se ha bloqueado la posibilidad de pegar scripts directamente en la consola.|
 |--|
 |  ***Para solucionar este problema, escribe en la consola "allow pasting" o "permitir pegado" para habilitar el pegado.***| 
 |Luego de esto, podrás pegar el código y continuar con la ejecución del script.|
