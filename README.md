@@ -1,6 +1,6 @@
-# Enviar Guion De Shrek 2 Por WhatsApp En Español
+# Enviar Guion Por WhatsApp
 
-Script para enviar el guion entero de shrek 2 por whatsapp
+Script para enviar guiones de peliculas mediante WhatsApp.
 
 ## Uso
 
