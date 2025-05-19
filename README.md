@@ -10,7 +10,7 @@ Abra [Script_wsp.js](https://github.com/kevinmaar/Script-Guion-Shrek-2-En-Whatsa
 |----------------------------------------------|
 | enviarScript(`*TU CONTENIDO*`).then(e => console.log(`Código finalizado, ${e} mensagens enviadas`)).catch(console.error) |
 
-En [WhastApp Web](https://web.whatsapp.com/) abre la consola del navegador.
+En [WhastApp Web](https://web.whatsapp.com/) abre la consola del navegador y escribe "allow pasting"
 
 |   Se ha bloqueado la posibilidad de pegar scripts directamente en la consola.|
 |--|
