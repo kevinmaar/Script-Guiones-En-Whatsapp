@@ -6,13 +6,11 @@ Script para enviar el guion entero de shrek 2 por whatsapp
 
 Abra [shrek2Script.js](https://github.com/kevinmaar/Script-Guion-Shrek-2-En-Whatsapp/blob/main/shrek2Script.js)
 
-Copie todo el contenido (Clic en copi raw file o bien ctrl + a y despues ctrl + c).
-
 En [WhastApp Web](https://web.whatsapp.com/) abre la consola del navegador.
 
-|  ⚠️ Se ha bloqueado la posibilidad de pegar scripts directamente en la consola.|
+|   Se ha bloqueado la posibilidad de pegar scripts directamente en la consola.|
 |--|
-|  ***Para solucionar este problema, escribe en la consola "allow pasting" o "permitir pegado" para habilitar el pegado.***| 
+|  ***Para solucionar este problema, escribe en la consola "allow pasting" para habilitar el pegado.***| 
 |Luego de esto, podrás pegar el código y continuar con la ejecución del script.|
 
 
