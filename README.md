@@ -12,10 +12,4 @@ Abra [Script_wsp.js](https://github.com/kevinmaar/Script-Guion-Shrek-2-En-Whatsa
 
 En [WhastApp Web](https://web.whatsapp.com/) abre la consola del navegador y escribe "allow pasting"
 
-|   Se ha bloqueado la posibilidad de pegar scripts directamente en la consola.|
-|--|
-|  ***Para solucionar este problema, escribe en la consola "allow pasting" para habilitar el pegado.***| 
-|Luego de esto, podrás pegar el código y continuar con la ejecución del script.|
-
-
 Pega el código en la consola y presiona "Enter".
